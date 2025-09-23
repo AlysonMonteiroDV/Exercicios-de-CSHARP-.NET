@@ -1,0 +1,15 @@
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\bin\Debug\net9.0\ExTresAlunosClasseMetodo.exe
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\bin\Debug\net9.0\ExTresAlunosClasseMetodo.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\bin\Debug\net9.0\ExTresAlunosClasseMetodo.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\bin\Debug\net9.0\ExTresAlunosClasseMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\bin\Debug\net9.0\ExTresAlunosClasseMetodo.pdb
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ExTresAlunosClasseMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ExTresAlunosClasseMetodo.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ExTresAlunosClasseMetodo.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ExTresAlunosClasseMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ExTresAlunosClasseMetodo.sourcelink.json
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ExTresAlunosClasseMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\refint\ExTresAlunosClasseMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ExTresAlunosClasseMetodo.pdb
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ExTresAlunosClasseMetodo.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExTresAlunosClasseMetodo\ExTresAlunosClasseMetodo\obj\Debug\net9.0\ref\ExTresAlunosClasseMetodo.dll
