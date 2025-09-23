@@ -1,0 +1,15 @@
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\bin\Debug\net9.0\ExdoisFuncionarioClassMetodo.exe
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\bin\Debug\net9.0\ExdoisFuncionarioClassMetodo.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\bin\Debug\net9.0\ExdoisFuncionarioClassMetodo.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\bin\Debug\net9.0\ExdoisFuncionarioClassMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\bin\Debug\net9.0\ExdoisFuncionarioClassMetodo.pdb
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ExdoisFuncionarioClassMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ExdoisFuncionarioClassMetodo.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ExdoisFuncionarioClassMetodo.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ExdoisFuncionarioClassMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ExdoisFuncionarioClassMetodo.sourcelink.json
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ExdoisFuncionarioClassMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\refint\ExdoisFuncionarioClassMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ExdoisFuncionarioClassMetodo.pdb
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ExdoisFuncionarioClassMetodo.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExdoisFuncionarioClassMetodo\ExdoisFuncionarioClassMetodo\obj\Debug\net9.0\ref\ExdoisFuncionarioClassMetodo.dll

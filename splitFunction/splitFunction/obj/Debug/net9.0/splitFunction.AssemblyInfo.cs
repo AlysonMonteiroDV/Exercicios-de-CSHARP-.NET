@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("splitFunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+049136edf879cb3c102f6c82990d2ab723f4b7c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("splitFunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("splitFunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
