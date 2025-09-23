@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Helder Martins\\Desktop\\Course\\splitFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E19129-A167-417E-AE15-43823B593B67}|splitFunction\\splitFunction.csproj|c:\\users\\helder martins\\desktop\\course\\splitfunction\\splitfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E19129-A167-417E-AE15-43823B593B67}|splitFunction\\splitFunction.csproj|solutionrelative:splitfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Helder Martins\\Desktop\\Course\\splitFunction\\splitFunction\\Program.cs",
+              "RelativeDocumentMoniker": "splitFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Helder Martins\\Desktop\\Course\\splitFunction\\splitFunction\\Program.cs*",
+              "RelativeToolTip": "splitFunction\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:33:55.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

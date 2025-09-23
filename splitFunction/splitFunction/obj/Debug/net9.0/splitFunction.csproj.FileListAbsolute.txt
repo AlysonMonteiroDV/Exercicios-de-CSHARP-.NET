@@ -1,0 +1,14 @@
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\bin\Debug\net9.0\splitFunction.exe
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\bin\Debug\net9.0\splitFunction.deps.json
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\bin\Debug\net9.0\splitFunction.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\bin\Debug\net9.0\splitFunction.dll
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\bin\Debug\net9.0\splitFunction.pdb
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\splitFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\splitFunction.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\splitFunction.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\splitFunction.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\splitFunction.dll
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\refint\splitFunction.dll
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\splitFunction.pdb
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\splitFunction.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\splitFunction\splitFunction\obj\Debug\net9.0\ref\splitFunction.dll

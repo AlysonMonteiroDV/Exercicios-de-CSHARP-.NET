@@ -1,0 +1,14 @@
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\bin\Debug\net9.0\ExUmClasseMetodo.exe
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\bin\Debug\net9.0\ExUmClasseMetodo.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\bin\Debug\net9.0\ExUmClasseMetodo.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\bin\Debug\net9.0\ExUmClasseMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\bin\Debug\net9.0\ExUmClasseMetodo.pdb
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\ExUmClasseMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\ExUmClasseMetodo.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\ExUmClasseMetodo.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\ExUmClasseMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\ExUmClasseMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\refint\ExUmClasseMetodo.dll
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\ExUmClasseMetodo.pdb
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\ExUmClasseMetodo.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExUmClasseMetodo\ExUmClasseMetodo\obj\Debug\net9.0\ref\ExUmClasseMetodo.dll

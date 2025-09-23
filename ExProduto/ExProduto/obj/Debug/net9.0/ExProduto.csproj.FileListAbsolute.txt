@@ -1,0 +1,14 @@
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\bin\Debug\net9.0\ExProduto.exe
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\bin\Debug\net9.0\ExProduto.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\bin\Debug\net9.0\ExProduto.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\bin\Debug\net9.0\ExProduto.dll
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\bin\Debug\net9.0\ExProduto.pdb
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\ExProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\ExProduto.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\ExProduto.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\ExProduto.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\ExProduto.dll
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\refint\ExProduto.dll
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\ExProduto.pdb
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\ExProduto.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExProduto\ExProduto\obj\Debug\net9.0\ref\ExProduto.dll

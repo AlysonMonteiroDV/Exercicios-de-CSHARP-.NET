@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Helder Martins\\Desktop\\Course\\ProblemaSemPoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2065AB2E-FACB-4813-A61D-246926B378DB}|ProblemaSemPoo\\ProblemaSemPoo.csproj|c:\\users\\helder martins\\desktop\\course\\problemasempoo\\problemasempoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2065AB2E-FACB-4813-A61D-246926B378DB}|ProblemaSemPoo\\ProblemaSemPoo.csproj|solutionrelative:problemasempoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2065AB2E-FACB-4813-A61D-246926B378DB}|ProblemaSemPoo\\ProblemaSemPoo.csproj|c:\\users\\helder martins\\desktop\\course\\problemasempoo\\problemasempoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2065AB2E-FACB-4813-A61D-246926B378DB}|ProblemaSemPoo\\ProblemaSemPoo.csproj|solutionrelative:problemasempoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Helder Martins\\Desktop\\Course\\ProblemaSemPoo\\ProblemaSemPoo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "ProblemaSemPoo\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Helder Martins\\Desktop\\Course\\ProblemaSemPoo\\ProblemaSemPoo\\Triangulo.cs",
+              "RelativeToolTip": "ProblemaSemPoo\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:25:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Helder Martins\\Desktop\\Course\\ProblemaSemPoo\\ProblemaSemPoo\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemaSemPoo\\Program.cs",
+              "ToolTip": "C:\\Users\\Helder Martins\\Desktop\\Course\\ProblemaSemPoo\\ProblemaSemPoo\\Program.cs",
+              "RelativeToolTip": "ProblemaSemPoo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:18:46.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
