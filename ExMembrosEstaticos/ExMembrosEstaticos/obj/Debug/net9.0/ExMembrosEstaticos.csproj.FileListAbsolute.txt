@@ -1,0 +1,15 @@
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net9.0\ExMembrosEstaticos.exe
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net9.0\ExMembrosEstaticos.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net9.0\ExMembrosEstaticos.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net9.0\ExMembrosEstaticos.dll
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\bin\Debug\net9.0\ExMembrosEstaticos.pdb
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ExMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ExMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ExMembrosEstaticos.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ExMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ExMembrosEstaticos.sourcelink.json
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ExMembrosEstaticos.dll
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\refint\ExMembrosEstaticos.dll
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ExMembrosEstaticos.pdb
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ExMembrosEstaticos.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExMembrosEstaticos\ExMembrosEstaticos\obj\Debug\net9.0\ref\ExMembrosEstaticos.dll
