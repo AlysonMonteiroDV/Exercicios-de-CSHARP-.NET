@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExMembrosEstaticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3998aab677a55d317faba9e6957f77e4ae3be296")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfd1a09b60ba0daebec04a70a6e4cb63d2a7871d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExMembrosEstaticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExMembrosEstaticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
