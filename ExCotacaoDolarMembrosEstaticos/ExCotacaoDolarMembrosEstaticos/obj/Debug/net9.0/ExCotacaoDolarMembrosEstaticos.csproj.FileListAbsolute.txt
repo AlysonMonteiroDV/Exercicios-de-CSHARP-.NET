@@ -1,0 +1,15 @@
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\bin\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.exe
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\bin\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\bin\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\bin\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.dll
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\bin\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.pdb
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.sourcelink.json
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.dll
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\refint\ExCotacaoDolarMembrosEstaticos.dll
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.pdb
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ExCotacaoDolarMembrosEstaticos.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExCotacaoDolarMembrosEstaticos\ExCotacaoDolarMembrosEstaticos\obj\Debug\net9.0\ref\ExCotacaoDolarMembrosEstaticos.dll

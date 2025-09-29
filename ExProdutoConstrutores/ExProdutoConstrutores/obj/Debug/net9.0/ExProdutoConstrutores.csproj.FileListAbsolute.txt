@@ -1,0 +1,15 @@
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\net9.0\ExProdutoConstrutores.exe
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\net9.0\ExProdutoConstrutores.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\net9.0\ExProdutoConstrutores.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\net9.0\ExProdutoConstrutores.dll
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\net9.0\ExProdutoConstrutores.pdb
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ExProdutoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ExProdutoConstrutores.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ExProdutoConstrutores.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ExProdutoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ExProdutoConstrutores.sourcelink.json
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ExProdutoConstrutores.dll
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\refint\ExProdutoConstrutores.dll
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ExProdutoConstrutores.pdb
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ExProdutoConstrutores.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\net9.0\ref\ExProdutoConstrutores.dll
