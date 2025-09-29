@@ -14,23 +14,22 @@ namespace Course
         // ter mais de um construtor é chamado de sobrecarga de construtores
         public Produto()
         {
-
+            
+            Quantidade = 10;
         }
-        public Produto(string nome,double preco, int quantidade)
+        public Produto(string nome,double preco) : this()
         {
             //Atributo =  parametro
+            
             Nome = nome;
             Preco = preco;
-            Quantidade = quantidade;
         }
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco,int quantidade) : this(nome,preco)
         {
             //Atributo =  parametro
             //naturalmente a quantidade inicia com zero
             //por ser um int mas double também inicia com zero
-            Nome = nome;
-            Preco = preco;
-            Quantidade = 5;
+            quantidade = quantidade;
             
         }
         public double ValorTotalEmEstoque()
