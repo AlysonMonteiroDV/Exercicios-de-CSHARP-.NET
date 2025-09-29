@@ -11,13 +11,28 @@ namespace Course
 
         // Construtores
         //Possui o mesmo nome da classe
+        // ter mais de um construtor é chamado de sobrecarga de construtores
+        public Produto()
+        {
+
+        }
         public Produto(string nome,double preco, int quantidade)
         {
+            //Atributo =  parametro
             Nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
-
+        public Produto(string nome, double preco)
+        {
+            //Atributo =  parametro
+            //naturalmente a quantidade inicia com zero
+            //por ser um int mas double também inicia com zero
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 5;
+            
+        }
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
