@@ -1,0 +1,15 @@
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\bin\Debug\net9.0\ExProperties.exe
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\bin\Debug\net9.0\ExProperties.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\bin\Debug\net9.0\ExProperties.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\bin\Debug\net9.0\ExProperties.dll
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\bin\Debug\net9.0\ExProperties.pdb
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ExProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ExProperties.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ExProperties.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ExProperties.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ExProperties.sourcelink.json
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ExProperties.dll
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\refint\ExProperties.dll
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ExProperties.pdb
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ExProperties.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExProperties\ExProperties\obj\Debug\net9.0\ref\ExProperties.dll
