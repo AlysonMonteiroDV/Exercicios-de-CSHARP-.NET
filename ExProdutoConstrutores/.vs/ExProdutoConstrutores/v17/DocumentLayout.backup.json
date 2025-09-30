@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Helder Martins\\Desktop\\Course\\ExProdutoConstrutores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4E40077-F801-4325-85C2-9041B3F49657}|ExProdutoConstrutores\\ExProdutoConstrutores.csproj|c:\\users\\helder martins\\desktop\\course\\exprodutoconstrutores\\exprodutoconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4E40077-F801-4325-85C2-9041B3F49657}|ExProdutoConstrutores\\ExProdutoConstrutores.csproj|solutionrelative:exprodutoconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4E40077-F801-4325-85C2-9041B3F49657}|ExProdutoConstrutores\\ExProdutoConstrutores.csproj|c:\\users\\helder martins\\desktop\\course\\exprodutoconstrutores\\exprodutoconstrutores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4E40077-F801-4325-85C2-9041B3F49657}|ExProdutoConstrutores\\ExProdutoConstrutores.csproj|solutionrelative:exprodutoconstrutores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E40077-F801-4325-85C2-9041B3F49657}|ExProdutoConstrutores\\ExProdutoConstrutores.csproj|c:\\users\\helder martins\\desktop\\course\\exprodutoconstrutores\\exprodutoconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E40077-F801-4325-85C2-9041B3F49657}|ExProdutoConstrutores\\ExProdutoConstrutores.csproj|solutionrelative:exprodutoconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Helder Martins\\Desktop\\Course\\ExProdutoConstrutores\\ExProdutoConstrutores\\Produto.cs",
               "RelativeDocumentMoniker": "ExProdutoConstrutores\\Produto.cs",
               "ToolTip": "C:\\Users\\Helder Martins\\Desktop\\Course\\ExProdutoConstrutores\\ExProdutoConstrutores\\Produto.cs",
               "RelativeToolTip": "ExProdutoConstrutores\\Produto.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T12:31:10.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Helder Martins\\Desktop\\Course\\ExProdutoConstrutores\\ExProdutoConstrutores\\Program.cs",
               "RelativeDocumentMoniker": "ExProdutoConstrutores\\Program.cs",
               "ToolTip": "C:\\Users\\Helder Martins\\Desktop\\Course\\ExProdutoConstrutores\\ExProdutoConstrutores\\Program.cs",
               "RelativeToolTip": "ExProdutoConstrutores\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T12:30:41.8Z",
               "EditorCaption": ""

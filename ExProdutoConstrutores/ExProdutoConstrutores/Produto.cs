@@ -36,6 +36,16 @@ namespace Course
         {
             return Preco * Quantidade;
         }
+
+        public double Desconto10Porcento(double preco)
+        {
+            return preco - (preco * 0.01);
+        }
+        public double Desconto10Porcento(double preco,int quantidade)
+        {
+            return preco - (preco * 0.01);
+        }
+
         public void AdicionarProdutos(int quantidade)
         {
             Quantidade += quantidade;
