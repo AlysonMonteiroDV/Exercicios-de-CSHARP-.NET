@@ -1,0 +1,15 @@
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ExFixacaoContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ExFixacaoContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ExFixacaoContaBancaria.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ExFixacaoContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ExFixacaoContaBancaria.sourcelink.json
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\bin\Debug\net9.0\ExFixacaoContaBancaria.exe
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\bin\Debug\net9.0\ExFixacaoContaBancaria.deps.json
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\bin\Debug\net9.0\ExFixacaoContaBancaria.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\bin\Debug\net9.0\ExFixacaoContaBancaria.dll
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\bin\Debug\net9.0\ExFixacaoContaBancaria.pdb
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ExFixacaoContaBancaria.dll
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\refint\ExFixacaoContaBancaria.dll
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ExFixacaoContaBancaria.pdb
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ExFixacaoContaBancaria.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\ExFixacaoContaBancaria\ExFixacaoContaBancaria\obj\Debug\net9.0\ref\ExFixacaoContaBancaria.dll
