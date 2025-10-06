@@ -1,0 +1,15 @@
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\bin\Debug\net9.0\AlturaMediaVetor.exe
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\bin\Debug\net9.0\AlturaMediaVetor.deps.json
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\bin\Debug\net9.0\AlturaMediaVetor.runtimeconfig.json
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\bin\Debug\net9.0\AlturaMediaVetor.dll
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\bin\Debug\net9.0\AlturaMediaVetor.pdb
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\AlturaMediaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\AlturaMediaVetor.AssemblyInfoInputs.cache
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\AlturaMediaVetor.AssemblyInfo.cs
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\AlturaMediaVetor.csproj.CoreCompileInputs.cache
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\AlturaMediaVetor.sourcelink.json
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\AlturaMediaVetor.dll
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\refint\AlturaMediaVetor.dll
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\AlturaMediaVetor.pdb
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\AlturaMediaVetor.genruntimeconfig.cache
+C:\Users\Helder Martins\Desktop\Course\AlturaMediaVetor\AlturaMediaVetor\obj\Debug\net9.0\ref\AlturaMediaVetor.dll
